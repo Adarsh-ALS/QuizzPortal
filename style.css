@@ -1,0 +1,20 @@
+body
+{
+    background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+}
+.col-md-7
+{
+    margin-top: 150px !important;
+    background-color: aliceblue;
+    padding: 30px;
+}
+h1
+{
+    background-color: aqua;
+    color: aliceblue;
+}
+input,label
+{
+    margin: 15px;
+    font-size: 22px;
+}
